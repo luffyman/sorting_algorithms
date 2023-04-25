@@ -72,4 +72,3 @@ void heap_sort(int *array, size_t size)
 		_largest(array, i, 0, r_size);
 	}
 }
-Footer
